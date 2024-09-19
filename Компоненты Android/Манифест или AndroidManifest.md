@@ -1,0 +1,1 @@
+## Что за Андроид манифест (AndroidManifest.xml) ?
