@@ -89,7 +89,7 @@ class MainActivity : AppCompatActivity() {
 
 Это делается с помощью добавления специального фильтра `intent-filter` к нужной активности.
 
-```
+``` xml
 <activity android:name=".MainActivity">
     <intent-filter>
         <action android:name="android.intent.action.MAIN" />
